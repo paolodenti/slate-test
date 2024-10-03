@@ -1,5 +1,5 @@
 ---
-title: API Reference - Walter test
+title: API Reference
 
 language_tabs: # must be one of https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers
   - shell
@@ -23,7 +23,7 @@ meta:
     content: Documentation for the Kittn API
 ---
 
-# Introduction
+# Introduction - Walter test
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
